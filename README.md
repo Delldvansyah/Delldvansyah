@@ -7,6 +7,7 @@ Watashi wa tsuneni kokoro no heon o negatte ikiteru ningen toiu koto o setsume s
 Kachimake ni kodawattari atama o kakaeru you na toraburu toka yoru mo nemurenai toitta teki o tsukuranai... toiu no ga, watashi no shakai ni taisuru shise de ari, sore ga jibun no koufuku da toiu koto o shitteiru. Mottomo tatakatta toshitemo watashi wa dare nimo maken gane
 
 
+
 [![](https://raw.githubusercontent.com/Delldvansyah/Delldvansyah/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Delldvansyah/Delldvansyah/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Delldvansyah/Delldvansyah/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Delldvansyah/Delldvansyah/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Delldvansyah/Delldvansyah/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
